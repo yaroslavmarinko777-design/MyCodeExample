@@ -1,0 +1,7 @@
+C:\Users\yarik\Desktop\Dokumentenorganisator\DocumentOrganizer\bin\Debug\DocumentOrganizer.exe.config
+C:\Users\yarik\Desktop\Dokumentenorganisator\DocumentOrganizer\bin\Debug\DocumentOrganizer.exe
+C:\Users\yarik\Desktop\Dokumentenorganisator\DocumentOrganizer\bin\Debug\DocumentOrganizer.pdb
+C:\Users\yarik\Desktop\Dokumentenorganisator\DocumentOrganizer\obj\Debug\DocumentOrganizer.csproj.AssemblyReference.cache
+C:\Users\yarik\Desktop\Dokumentenorganisator\DocumentOrganizer\obj\Debug\DocumentOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\yarik\Desktop\Dokumentenorganisator\DocumentOrganizer\obj\Debug\DocumentOrganizer.exe
+C:\Users\yarik\Desktop\Dokumentenorganisator\DocumentOrganizer\obj\Debug\DocumentOrganizer.pdb
